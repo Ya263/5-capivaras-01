@@ -181,8 +181,12 @@ body {
     color: #1b8fc4;
 }
 
+.report {
+    padding: 20px;
+
 .ps {
     color: #8b8b8b;
     text-decoration: none;
     font-size: 25px;
+    margin-top: 20px;
 } 
