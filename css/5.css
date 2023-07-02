@@ -38,9 +38,8 @@ ul {
 .bolinhas2 {
     width: 348px;
     height: 430px;
-    float: right;
-    position: relative;
-    margin: 0 auto;
+    position: absolute;
+    margin-left: 1000px;
 }
 
 .logo {
