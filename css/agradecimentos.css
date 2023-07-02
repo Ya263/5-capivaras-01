@@ -364,3 +364,12 @@ p {
 .menu-2 ul li:hover {
     border-bottom: #022e19 2px solid;
 }
+@media screen and (max-width: 600px) {
+    .menu {
+        width: 950px;
+        margin-left: 230px;
+    }
+    .menu2 {
+        margin-left: 10px;
+    }
+}
