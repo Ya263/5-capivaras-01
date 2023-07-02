@@ -60,7 +60,7 @@ ul {
 
 .menu {
     background-color: white;
-    width: 830px;
+    width: 810px;
     height: 50px;
     float: left;
     position: absolute;
@@ -92,7 +92,7 @@ ul {
     display: inline-block;
     color: #34685c;
     margin-top: 10px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .menu2 ul li a {
