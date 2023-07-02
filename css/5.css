@@ -83,9 +83,9 @@ ul {
 .lixo {
     width: 880px;
     height: 778px;
-    float: right;
     margin-top: 452px;
-    position: relative;
+    margin-left: 469px;
+    position: absolute;
 }
 
 .menu2 ul li {
