@@ -190,7 +190,7 @@ body {
     font-size: 25px;
     margin-top: 20px;
 } 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
     .menu {
         width: 950px;
         margin-left: 230px;
