@@ -133,3 +133,12 @@ ul {
     color: black;
 }
 
+@media screen and (max-width: 600px) {
+    .menu {
+        width: 900px;
+        margin-left: 230px;
+    }
+    .menu2 {
+        margin-left: 10px;
+    }
+}
